@@ -1,14 +1,16 @@
-# data-analytics-portfolio
-My portfolio with data analysis projects and visualizations (Python, Excel, Tableau, Google Analytics)
+# I’m a **Junior Data Analyst** with hands-on experience in data collection, cleaning, and visualization.  
+I enjoy transforming raw data into clear insights and dashboards that support data-driven decision making.  
 
- **Analyzed user data to understand device types, languages, and age distribution. The goal was to
- explore key user characteristics and find simple patterns.**
+**Key Skills:**  
+Python (Pandas) | Excel | Tableau | Google Analytics | Data Cleaning | Visualization | Reporting
+
+**Goal:** Understand user device types, languages, and age distribution.  
+**Tools:** Google Sheets  
  https://docs.google.com/spreadsheets/d/1pmrLrqFFfPjJn3YPfoN0FOddCIf_ThysWbnihPYyHOY/edit?
  gid=0#gid=0
-**Revenue Analysis Dashboard
- Built a dashboard to analyze company revenue by location, month, and product category. The goal
- was to understand how income changes over time and which regions or products bring the most revenue.**
+**Goal:** Track player activity by month, number of unique users, and average time spent in the game.  
+**Tools:** Tableau  
  https://public.tableau.com/app/profile/.66776416/viz/HomeWork1_17577860892470/Dashboard1
-**Created a dashboard to analyze player activity and engagement in the game. The goal was to track
- how many users play each month and how much time they spend in the game.**
+**Goal:** Track player activity by month, number of unique users, and average time spent in the game.  
+**Tools:** Tableau  
  https://public.tableau.com/app/profile/.66776416/viz/HomeW3_17584700992760/Users
